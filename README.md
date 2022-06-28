@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheObviousKraken
+- 👀 I’m interested in Games Dev, mainly using Unity :)
+- 🌱 I’m currently learning "the ropes" of being a dev in the industry
+- 📫 How to reach me: http://linkedin.com/in/ellis-kenealy
